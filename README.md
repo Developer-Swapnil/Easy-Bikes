@@ -16,7 +16,7 @@ EasyBikes The Bike Sell and Buy Web App is an online marketplace that connects b
 
 https://easybikes.netlify.app/
 
-![](./frontend/components/ScreenShots/Wooble-4.png)
+![](https://github.com/Developer-Swapnil/Easy-Bikes/blob/8a4e5bcbe4ffb26638e774fb8999fe34f2c43b42/frontend/src/components/ScreenShots/Easy-Bikes-1.png)
 
 ## Run Locally
 
